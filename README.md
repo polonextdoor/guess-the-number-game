@@ -34,4 +34,4 @@ Limited number of attempts to add excitement and challenge to the game.
 High-score tracking feature to record and display the best scores achieved by different players.
 
 
-### Enjoy the Number Guessing Game and have fun challenging yourself to guess the secret number! If you have any questions or need assistance, don't hesitate to reach out to the project maintainers. Happy gaming!
+### Enjoy Guess The Number and have fun challenging yourself to guess the secret number! If you have any questions or need assistance, don't hesitate to reach out. Happy gaming!
